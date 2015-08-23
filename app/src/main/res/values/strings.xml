@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="clean">Clean All Notes</string>
+    <string name="about">About</string>
+    <string name="delete">Delete</string>
+    <string name="areyousure">Delete?</string>
+    <string name="close">Close</string>
+    <string name="content">from bigggge</string>
+    <string name="cancel">Cancel</string>
+    <string name="licenses">Licenses Info</string>
+	<string name="app_name">SCalculator</string>
+    <string name="action_settings">Settings</string>
+    <string name="btnBackspace">Backspace</string>
+    <string name="btnCE">CE</string>
+    <string name="btn7">7</string>
+    <string name="btn8">8</string>
+    <string name="btn9">9</string>
+    <string name="btnDiv">÷</string>
+    <string name="btn4">4</string>
+    <string name="btn5">5</string>
+    <string name="btn6">6</string>
+    <string name="btnMul">×</string>
+    <string name="btn1">1</string>
+    <string name="btn2">2</string>
+    <string name="btn3">3</string>
+    <string name="btnAdd">+</string>
+    <string name="btn0">0</string>
+    <string name="btnPoint">.</string>
+    <string name="btnEqu">=</string>
+    <string name="btnSub">-</string>
+    <string name="notetitle">Title：</string>
+    <string name="notecontent">Content：</string>
+    <string name="confirmNote">Confirm</string>
+    <string name="deleteNote">Delete</string>
+    <string name="Search">Search</string>
+    <string name="Action_Add_Note">AddNote</string>
+
+</resources>

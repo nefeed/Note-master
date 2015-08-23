@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">神奇计算器</string>
+    <string name="Action_Add_Note">新增</string>
+    <string name="Search">搜索</string>
+    <string name="about">关于</string>
+    <string name="action_settings">设置</string>
+    <string name="areyousure">神奇计算器</string>
+    <string name="btn0">0</string>
+    <string name="btn1">1</string>
+    <string name="btn2">2</string>
+    <string name="btn3">3</string>
+    <string name="btn4">4</string>
+    <string name="btn5">5</string>
+    <string name="btn6">6</string>
+    <string name="btn7">7</string>
+    <string name="btn8">8</string>
+    <string name="btn9">9</string>
+    <string name="btnAdd">+</string>
+    <string name="btnBackspace">退格</string>
+    <string name="btnCE">清空</string>
+    <string name="btnDiv">÷</string>
+    <string name="btnEqu">=</string>
+    <string name="btnMul">×</string>
+    <string name="btnPoint">.</string>
+    <string name="btnSub">-</string>
+    <string name="cancel">取消</string>
+    <string name="clean">清空所有笔记</string>
+    <string name="close">关闭</string>
+    <string name="confirmNote">确认</string>
+    <string name="delete">删除</string>
+    <string name="deleteNote">删除</string>
+    <string name="notetitle">主题：</string>
+    <string name="notecontent">内容：</string>
+    <string name="licenses">信息</string>
+    <string name="content">内容输入：</string>
+</resources>
